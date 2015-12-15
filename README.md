@@ -74,7 +74,7 @@ If you're looking for other projects to contribute to please see the
 
 * Use spaces around operators, after commas, colons and semicolons.
   Do not put spaces around matched pairs like brackets, parentheses, etc.
-  Whitespace might be (mostly) irrelevant to the Elixir runtime, but its proper
+  Whitespace might be (mostly) irrelevant to the Elixir compiler, but its proper
   use is the key to writing easily readable code.
 
   ```elixir
